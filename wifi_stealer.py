@@ -14,7 +14,7 @@ def email_alert(subject, body, to):
 
     user = "Pikachu0304xd@gmail.com"
     msg['from'] = user
-    password = "kismreeqtucjsdik"
+    password = "password"
 
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.starttls()
