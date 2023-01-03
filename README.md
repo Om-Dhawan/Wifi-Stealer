@@ -5,7 +5,7 @@ By running this code in your PC all the ssid's and passwords stored in your syst
 ## Note:-
 Please enter your id and password in code before runing the program.
 
-# Disclaimer
+# Disclaimer⚠️
 Don't use this program for malicious purposes
 
 Has been developed with the intention of Educational usage
